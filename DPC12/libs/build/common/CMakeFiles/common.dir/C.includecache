@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/madsravn/dpc/DPC/DPC12/libs/common/error.c
+error.h
+/users/madsravn/dpc/DPC/DPC12/libs/common/error.h
+stdlib.h
+-
+
+/users/madsravn/dpc/DPC/DPC12/libs/common/error.h
+stdio.h
+-
+stdarg.h
+-
+
+/users/madsravn/dpc/DPC/DPC12/libs/common/image2d.c
+image2d.h
+/users/madsravn/dpc/DPC/DPC12/libs/common/image2d.h
+error.h
+/users/madsravn/dpc/DPC/DPC12/libs/common/error.h
+stdlib.h
+-
+
+/users/madsravn/dpc/DPC/DPC12/libs/common/image2d.h
+

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libcommon.so -o libcommon.so CMakeFiles/common.dir/error.c.o CMakeFiles/common.dir/image2d.c.o 

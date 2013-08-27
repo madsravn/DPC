@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libopengl_utils.so -o libopengl_utils.so CMakeFiles/opengl_utils.dir/glsl_shader.c.o CMakeFiles/opengl_utils.dir/image2d_opengl.c.o CMakeFiles/opengl_utils.dir/opengl_utilities.c.o ../common/libcommon.so -lGL -Wl,-rpath,/users/madsravn/dpc/DPC/DPC12/libs/build/common: 

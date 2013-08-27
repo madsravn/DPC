@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/exercise01.dir/main.c.o CMakeFiles/exercise01.dir/./exercise01_generated_thresholding.cu.o  -o exercise01 -rdynamic -L/users/madsravn/dpc/DPC/DPC12/exercise01/../lib /usr/local/cuda/lib64/libcudart.so -lcuda -lcommon -lcuda_utils -Wl,-rpath,/users/madsravn/dpc/DPC/DPC12/exercise01/../lib:/usr/local/cuda/lib64: 

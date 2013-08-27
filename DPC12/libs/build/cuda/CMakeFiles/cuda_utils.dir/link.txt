@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libcuda_utils.so -o libcuda_utils.so CMakeFiles/cuda_utils.dir/cuda_utilities.c.o ../common/libcommon.so /usr/local/cuda/lib64/libcudart.so -lcuda -Wl,-rpath,/users/madsravn/dpc/DPC/DPC12/libs/build/common:/usr/local/cuda/lib64: 

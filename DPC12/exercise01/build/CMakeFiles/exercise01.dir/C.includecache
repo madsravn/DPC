@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/image2d.h
+
+/users/madsravn/dpc/DPC/DPC12/exercise01/main.c
+thresholding.h
+/users/madsravn/dpc/DPC/DPC12/exercise01/thresholding.h
+image2d.h
+/users/madsravn/dpc/DPC/DPC12/exercise01/image2d.h
+stdlib.h
+-
+
+/users/madsravn/dpc/DPC/DPC12/exercise01/thresholding.h
+image2d.h
+/users/madsravn/dpc/DPC/DPC12/exercise01/image2d.h
+
